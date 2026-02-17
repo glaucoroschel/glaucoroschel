@@ -1,8 +1,9 @@
 ## Hi there 👋
 - 🌱 I’m currently specialising in Advanced Cloud Architecutre with Microsoft Azure.
 - 🔭 Working with Cloud Infrastructure & Architecture.
-##
-<h2 align="Left"><b>Technologies & Tools</b></h2>
+<hr style="border: 3px solid #0078D4;">
+<p style="font-size:24px; font-weight:bold; margin:0;">💻 Technologies & Tools</p>
+<hr style="border: 3px solid #0078D4;">
 <p>
   <img src="https://img.shields.io/badge/Windows%20Server-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyper-V-0078D4?style=for-the-badge">
