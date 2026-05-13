@@ -26,13 +26,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
   <a href="mailto:glauco.roschel@outlook.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white"></a>
 </div>
 
- ---
 
-<p align="center">
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=glaucoroschel&theme=dracula" alt="glaucoroschel" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glaucoroschel&theme=dracula&layout=compact" alt="glaucoroschel" width="300"/>
-</p>
 
 <p align="center">
  <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
@@ -43,20 +37,9 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
  <a href="VMWARE"><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"></a>
 </p>
 
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glaucoroschel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glaucoroschel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Linguagens" width="300"/>
-</p>
-
-  ---
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-<p align='center'>
-  👀 Visitantes do Perfil<br>
-  <img src="https://profile-counter.glitch.me/glaucoroschel/count.svg" alt="Visitor Count"/>
-</p>
+## 👀 Visitantes do Perfil
+![Visitor Count](https://komarev.com/ghpvc/?username=glaucoroschel&color=0078d4&style=flat)
