@@ -27,8 +27,9 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
  ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glaucoroschel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="glaucoroschel" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glaucoroschel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="glaucoroschel" width="300"/>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=glaucoroschel&theme=dracula" alt="glaucoroschel" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glaucoroschel&theme=dracula&layout=compact" alt="glaucoroschel" width="300"/>
 </p>
 
 <p align="center">
