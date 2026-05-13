@@ -57,5 +57,5 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-## 👀 Visitantes do Perfil
+## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=glaucoroschel&color=0078d4&style=flat)
