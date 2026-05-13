@@ -19,11 +19,14 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 -   🌱 Currently learning **Git-Hub and AI**
 -   ⚡ Personal Interests: Swimming, running, gym and reading books
 
-<div> 
-  <a href="https://www.linkedin.com/in/glaucoroschel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://www.glaucoroschel.com/" target="_blank"><img src="https://img.shields.io/badge/-Website%2fBlog-blue?style=flat&logo=website&logoColor=white&link="_blank"></a>  
+## 📬 How to find me
+
+<div>
+  <a href="https://www.linkedin.com/in/glaucoroschel/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="http://www.glaucoroschel.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website%2FBlog-0078D4?logo=chrome&logoColor=white"></a>
+  <a href="mailto:glauco.roschel@outlook.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white"></a>
 </div>
- 
+
  ---
 
 <p align="center">
@@ -40,8 +43,16 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
  <a href="VEEAM"><img src="https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white"></a>
  <a href="VMWARE"><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"></a>
 </p>
+  ---
+  ## 📊 Estatísticas GitHub
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=glaucoroschel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
   ---
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<p align='center'>
+👀 Visitantes do Perfil
+![Visitor Count](https://profile-counter.glitch.me/glaucoroschel/count.svg)
 </p>
