@@ -30,6 +30,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 <details>
   <summary> 🏅 My Certifications</summary>
+---
 
 <!--START_SECTION:badges-->
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/98585f1a-8c94-486b-be7f-6e07245ad3b6)
