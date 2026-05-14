@@ -47,6 +47,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <!--END_SECTION:badges-->
 
 </details>
+---
 
 <p align="center">
  <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
