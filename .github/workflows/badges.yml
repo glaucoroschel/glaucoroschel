@@ -16,4 +16,4 @@ jobs:
         with:
           COMMIT_MESSAGE: "Add and update my latest badges"
           CREDLY_USER: glauco.roschel
-          NUMBER_LAST_BADGES: 15
+          NUMBER_LAST_BADGES: 20

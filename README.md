@@ -16,10 +16,11 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 -   🏅 **Renewal Microsoft AZ-104**
 -   📝 I’m currently reading The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win.
 -   💬 Ask me about Microsoft Azure and Infraestructure
--   🌱 Currently learning **Git-Hub and AI**
+-   🌱 *Currently learning **Git-Hub and AI***
 -   ⚡ Personal Interests: Swimming, running, gym and reading books
 
 ## 📬 How to find me
+
 <div>
   <a href="https://www.linkedin.com/in/glaucoroschel/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="http://www.glaucoroschel.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website%2FBlog-0078D4?logo=chrome&logoColor=white"></a>
@@ -28,9 +29,10 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 ###
 
+---
+
 <details>
   <summary> 🏅 My Certifications</summary>
----
 
 <!--START_SECTION:badges-->
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/98585f1a-8c94-486b-be7f-6e07245ad3b6)
@@ -47,6 +49,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <!--END_SECTION:badges-->
 
 </details>
+
 ---
 
 <p align="center">
