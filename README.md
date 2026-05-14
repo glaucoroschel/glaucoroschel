@@ -28,7 +28,9 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 ###
 
-<summary> 🏅 My Certifications</summary>
+<details>
+  <summary> 🏅 My Certifications</summary>
+
 <!--START_SECTION:badges-->
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/98585f1a-8c94-486b-be7f-6e07245ad3b6)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/940a861e-ddfe-43cc-8eb0-a984686e376a)
@@ -42,6 +44,8 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 [![Exam 247: Configuring and Deploying a Private Cloud with System Center 2012](https://images.credly.com/size/80x80/images/1a8519aa-a117-46db-ba4d-2e612cc982b1/Exam_247-01.png)](https://www.credly.com/badges/2faebeaf-b5b0-4dae-bb49-abc82c790172)
 [![Exam 417: Upgrading Your Skills to MCSA Windows Server 2012](https://images.credly.com/size/80x80/images/28ae0288-5760-431e-a18b-2a5c309579a7/Exam-417.png)](https://www.credly.com/badges/d893168b-c7d8-4074-9899-f29d7ef51978)
 <!--END_SECTION:badges-->
+
+</details>
 
 <p align="center">
  <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
