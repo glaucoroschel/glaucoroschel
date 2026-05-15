@@ -57,8 +57,6 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 </details>
 
-##
-
 <p align="center">
  <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
  <a href="AWS"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"></a>
@@ -76,3 +74,11 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 ## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=glaucoroschel&color=0078d4&style=flat)
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glaucoroschel/glaucoroschel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glaucoroschel/glaucoroschel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glaucoroschel/glaucoroschel/output/github-contribution-grid-snake.svg">
+</picture>
