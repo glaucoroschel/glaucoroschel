@@ -29,7 +29,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 ###
 
-<hr style="border: 0; height: 1px; background-color: #21262d;">
+---
 
 <details>
   <summary> 🏅 My Certifications</summary>
@@ -50,7 +50,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 </details>
 
-<hr style="border: 0; height: 1px; background-color: #21262d;">
+---
 
 <p align="center">
  <a href="AZURE"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"></a>
