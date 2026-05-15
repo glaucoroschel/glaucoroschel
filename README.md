@@ -19,7 +19,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 -   🌱 *Currently learning **Git-Hub and AI***
 -   ⚡ Personal Interests: Swimming, running, gym and reading books
 
-### 📬 How to find me
+## 📬 How to find me
 
 <div>
   <a href="https://www.linkedin.com/in/glaucoroschel/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
@@ -31,6 +31,10 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 <details>
   <summary> 🏅 My Certifications</summary>
+
+<table>
+<tr>
+<td>
 
 <!--START_SECTION:badges-->
 
@@ -46,6 +50,11 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 [![Exam 247: Configuring and Deploying a Private Cloud with System Center 2012](https://images.credly.com/size/80x80/images/1a8519aa-a117-46db-ba4d-2e612cc982b1/Exam_247-01.png)](https://www.credly.com/badges/2faebeaf-b5b0-4dae-bb49-abc82c790172)
 [![Exam 417: Upgrading Your Skills to MCSA Windows Server 2012](https://images.credly.com/size/80x80/images/28ae0288-5760-431e-a18b-2a5c309579a7/Exam-417.png)](https://www.credly.com/badges/d893168b-c7d8-4074-9899-f29d7ef51978)
 <!--END_SECTION:badges-->
+
+</td>
+</tr>
+</table>
+
 </details>
 
 ##
@@ -59,11 +68,11 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
  <a href="VMWARE"><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"></a>
 </p>
 
----
+##
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-### 👀 Profile Visitors
+## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=glaucoroschel&color=0078d4&style=flat)
