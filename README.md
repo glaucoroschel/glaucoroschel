@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/images/banner.png">
+<img src="assets/images/banner.gif">
 </p>
 
 ## Hi there 👋
