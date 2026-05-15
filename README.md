@@ -27,6 +27,13 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
   <a href="mailto:glauco.roschel@outlook.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white"></a>
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glaucoroschel" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glaucoroschel&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ###
 
 <hr style="border: 0; height: 1px; background-color: #8b949e;">
@@ -61,6 +68,8 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
  <a href="VEEAM"><img src="https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white"></a>
  <a href="VMWARE"><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"></a>
 </p>
+
+---
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
