@@ -37,7 +37,6 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <td>
 
 <!--START_SECTION:badges-->
-
 [![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/c1ce2e38-5947-411b-b620-1922880e9321)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/940a861e-ddfe-43cc-8eb0-a984686e376a)
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/98585f1a-8c94-486b-be7f-6e07245ad3b6)
