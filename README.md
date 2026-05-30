@@ -38,6 +38,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/c1ce2e38-5947-411b-b620-1922880e9321)
+[![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/ee30b474-b519-4abd-b825-775fc8688059)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/940a861e-ddfe-43cc-8eb0-a984686e376a)
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/98585f1a-8c94-486b-be7f-6e07245ad3b6)
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/80x80/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/aec00430-faf9-45d5-a0ca-89055a5881ae)
@@ -48,7 +49,6 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 [![Exam 246: Monitoring and Operating a Private Cloud with System Center 2012](https://images.credly.com/size/80x80/images/7d1819ee-bf37-44c8-8ba4-dc7d33f5c912/Exam_246-01.png)](https://www.credly.com/badges/d3f8b7a1-3aeb-41b4-91fd-d735bdc00986)
 [![Exam 247: Configuring and Deploying a Private Cloud with System Center 2012](https://images.credly.com/size/80x80/images/1a8519aa-a117-46db-ba4d-2e612cc982b1/Exam_247-01.png)](https://www.credly.com/badges/2faebeaf-b5b0-4dae-bb49-abc82c790172)
 [![Exam 417: Upgrading Your Skills to MCSA Windows Server 2012](https://images.credly.com/size/80x80/images/28ae0288-5760-431e-a18b-2a5c309579a7/Exam-417.png)](https://www.credly.com/badges/d893168b-c7d8-4074-9899-f29d7ef51978)
-[![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/ee30b474-b519-4abd-b825-775fc8688059)
 <!--END_SECTION:badges-->
 
 </td>
