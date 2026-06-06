@@ -30,7 +30,11 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 ##
 
 <details>
-  ## <summary> 🏅 My Certifications</summary>
+   <summary> 
+   
+   ## 🏅 My Certifications
+   
+   </summary>
 
 <table>
 <tr>
@@ -56,10 +60,10 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 </table>
 
 | Badge | Certification | Status 2026 |
-|---------------|------------|
+|---------------|------------|------------|
 | AZ-104 | Microsoft Azure Administrator Associate - Renewal | ✅ Completed |
 | GH-900 | GitHub Foundations | ✅ Completed |
-| AI-901 | AZure AI Foundamentals | 🔄 In Progress |
+| AI-901 | AZure AI Fundamentals | 🔄 In Progress |
 | LPI 010-160 | Linux Essentials | 🔄 In Progress |
 
 ---
