@@ -30,7 +30,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 ##
 
 <details>
-  <summary> 🏅 ## My Certifications</summary>
+  ## <summary> 🏅 My Certifications</summary>
 
 <table>
 <tr>
@@ -51,6 +51,10 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 [![Exam 417: Upgrading Your Skills to MCSA Windows Server 2012](https://images.credly.com/size/80x80/images/28ae0288-5760-431e-a18b-2a5c309579a7/Exam-417.png)](https://www.credly.com/badges/d893168b-c7d8-4074-9899-f29d7ef51978)
 <!--END_SECTION:badges-->
 
+</td>
+</tr>
+</table>
+
 | Badge | Certification | Status 2026 |
 |---------------|------------|
 | AZ-104 | Microsoft Azure Administrator Associate - Renewal | ✅ Completed |
@@ -58,11 +62,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 | AI-901 | AZure AI Foundamentals | 🔄 In Progress |
 | LPI 010-160 | Linux Essentials | 🔄 In Progress |
 
-
-</td>
-</tr>
-</table>
-
+---
 
 </details>
 
