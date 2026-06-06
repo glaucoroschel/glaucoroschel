@@ -80,6 +80,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
  <a href="OPENVPN"><img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white"></a> 
  <a href="VEEAM"><img src="https://img.shields.io/badge/Veeam-00B336?style=flat&logo=veeam&logoColor=white"></a>
  <a href="VMWARE"><img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"></a>
+ <a href="GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ##
@@ -91,11 +92,6 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 ## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=glaucoroschel&color=0078d4&style=flat)
 
-## 📊 GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=glaucoroschel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Glauco's GitHub Stats" width="48%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucoroschel&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%"/></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=glaucoroschel&theme=dark&hide_border=true" alt="GitHub Streak" width="55%"/></p>
 
 ## 🐍 Contributions
 
