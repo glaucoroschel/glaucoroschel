@@ -13,11 +13,11 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 
 -   💻 I’m currently working as **ICT Coordinator**
--   🏅 **Renewal Microsoft AZ-104**
 -   📝 I’m currently reading The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win.
 -   💬 Ask me about Microsoft Azure and Infraestructure
 -   🌱 *Currently learning **Git-Hub and AI***
 -   ⚡ Personal Interests: Swimming, running, gym and reading books
+
 
 ## 📬 How to find me
 
@@ -30,7 +30,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 ##
 
 <details>
-  <summary> 🏅 My Certifications</summary>
+  <summary> 🏅 ## My Certifications</summary>
 
 <table>
 <tr>
@@ -51,9 +51,18 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 [![Exam 417: Upgrading Your Skills to MCSA Windows Server 2012](https://images.credly.com/size/80x80/images/28ae0288-5760-431e-a18b-2a5c309579a7/Exam-417.png)](https://www.credly.com/badges/d893168b-c7d8-4074-9899-f29d7ef51978)
 <!--END_SECTION:badges-->
 
+| Badge | Certification | Status 2026 |
+|---------------|------------|
+| AZ-104 | Microsoft Azure Administrator Associate - Renewal | ✅ Completed |
+| GH-900 | GitHub Foundations | ✅ Completed |
+| AI-901 | AZure AI Foundamentals | 🔄 In Progress |
+| LPI 010-160 | Linux Essentials | 🔄 In Progress |
+
+
 </td>
 </tr>
 </table>
+
 
 </details>
 
@@ -74,6 +83,12 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 ## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=glaucoroschel&color=0078d4&style=flat)
+
+## 📊 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=glaucoroschel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Glauco's GitHub Stats" width="48%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucoroschel&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%"/></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=glaucoroschel&theme=dark&hide_border=true" alt="GitHub Streak" width="55%"/></p>
 
 ## 🐍 Contributions
 
