@@ -23,7 +23,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 
 <div>
   <a href="https://www.linkedin.com/in/glaucoroschel/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="http://www.glaucoroschel.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website%2FBlog-0078D4?logo=chrome&logoColor=white"></a>
+  <!-- <a href="http://www.glaucoroschel.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website%2FBlog-0078D4?logo=chrome&logoColor=white"></a> -->
   <a href="mailto:glauco.roschel@outlook.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white"></a>
 </div>
 
@@ -65,6 +65,8 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 | GH-900 | GitHub Foundations | ✅ Completed |
 | AI-901 | AZure AI Fundamentals | 🔄 In Progress |
 | LPI 010-160 | Linux Essentials | 🔄 In Progress |
+| LPI 010-160 | Linux Essentials | ![In Progress](https://img.shields.io/badge/🔄_In_Progress-yellow?style=flat) |
+| LPI 010-160 | Linux Essentials | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20"/> In Progress |
 
 ---
 
