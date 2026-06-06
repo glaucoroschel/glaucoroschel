@@ -65,8 +65,14 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 | GH-900 | GitHub Foundations | ✅ Completed |
 | AI-901 | AZure AI Fundamentals | 🔄 In Progress |
 | LPI 010-160 | Linux Essentials | 🔄 In Progress |
-| LPI 010-160 | Linux Essentials | ![In Progress](https://img.shields.io/badge/🔄_In_Progress-yellow?style=flat) |
-| LPI 010-160 | Linux Essentials | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20"/> In Progress |
+
+| Badge | Certification | Status 2026 |
+|-------|---------------|-------------|
+| AZ-104 | Microsoft Azure Administrator Associate - Renewal | ✅ Completed |
+| GH-900 | GitHub Foundations | ✅ Completed |
+| AI-901 | Azure AI Fundamentals | <img src="assets/images/in-progress.svg"/> |
+| LPI 010-160 | Linux Essentials | <img src="assets/images/in-progress.svg"/> |
+
 
 ---
 
