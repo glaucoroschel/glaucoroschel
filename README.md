@@ -40,6 +40,10 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <tr>
 <td>
 
+<!-- Static badge - not managed by workflow -->
+[![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://learn.microsoft.com/en-us/users/GlaucoRoschel/credentials)
+
+
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/c1ce2e38-5947-411b-b620-1922880e9321)
 [![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/ee30b474-b519-4abd-b825-775fc8688059)
