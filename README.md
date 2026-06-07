@@ -61,7 +61,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 </tr>
 </table>
 
-| Badge | Certification | Status 2026 |
+| Badge | Certification | Status_2026 |
 |-------|---------------|-------------|
 | AZ-104 | Microsoft Azure Administrator Associate - Renewal | ![Completed](https://img.shields.io/badge/✅_Completed-2ea44f?style=flat) |
 | GH-900 | GitHub Foundations | ![Completed](https://img.shields.io/badge/✅_Completed-2ea44f?style=flat) |
