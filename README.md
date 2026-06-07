@@ -41,14 +41,13 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <td>
 
 <!-- Static badge - not managed by workflow -->
-[![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://learn.microsoft.com/en-us/users/GlaucoRoschel/credentials)
+[![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/570C9FF4E415CE49?sharingId=6C33509A62C2BF07)
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/8EFEEECD0BA669C?sharingId=6C33509A62C2BF07)
 
 
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/c1ce2e38-5947-411b-b620-1922880e9321)
 [![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/ee30b474-b519-4abd-b825-775fc8688059)
-[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/940a861e-ddfe-43cc-8eb0-a984686e376a)
-[![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/80x80/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](https://www.credly.com/badges/98585f1a-8c94-486b-be7f-6e07245ad3b6)
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/80x80/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/aec00430-faf9-45d5-a0ca-89055a5881ae)
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/80x80/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/83376f22-2428-4448-8b1e-d658ea5b19e2)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/be40bdee-847e-4789-9984-4ffd5041d5fe)
