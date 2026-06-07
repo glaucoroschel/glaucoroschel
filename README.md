@@ -41,9 +41,8 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <td>
 
 <!-- Static badge - not managed by workflow -->
-[![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/570C9FF4E415CE49?sharingId=6C33509A62C2BF07)
-[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/8EFEEECD0BA669C?sharingId=6C33509A62C2BF07)
-
+[![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/8EFEEECD0BA669C?sharingId=6C33509A62C2BF07)
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/570C9FF4E415CE49?sharingId=6C33509A62C2BF07)
 
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/c1ce2e38-5947-411b-b620-1922880e9321)
