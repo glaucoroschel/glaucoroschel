@@ -41,6 +41,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 <td>
 
 <!-- Static badge - not managed by workflow -->
+[![Azure AI Fundamentals](https://images.credly.com/size/80x80/images/4136ced8-75d5-4afb-8677-40b6236e2672/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/B266AFC823FC63F2?sharingId=6C33509A62C2BF07)
 [![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/8EFEEECD0BA669C?sharingId=6C33509A62C2BF07)
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/GlaucoRoschel/570C9FF4E415CE49?sharingId=6C33509A62C2BF07)
 
@@ -69,7 +70,7 @@ Currently specialising in Advanced Cloud Architecture with Microsoft Azure, I am
 |-------|---------------|-------------|
 | AZ-104 | Microsoft Azure Administrator Associate - Renewal | ![Completed](https://img.shields.io/badge/✅_Completed-2ea44f?style=flat) |
 | GH-900 | GitHub Foundations | ![Completed](https://img.shields.io/badge/✅_Completed-2ea44f?style=flat) |
-| AI-901 | Azure AI Fundamentals | ![In Progress](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFA500&width=130&height=24&lines=🔄+In+Progress) |
+| AI-901 | Azure AI Fundamentals | ![Completed](https://img.shields.io/badge/✅_Completed-2ea44f?style=flat) |
 | LPI 010-160 | Linux Essentials | ![In Progress](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=FFA500&width=130&height=24&lines=🔄+In+Progress) |
 
 
